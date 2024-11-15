@@ -1,0 +1,12 @@
+/* appling google font over the website  */
+
+*{
+    background-color: #2980b9;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    background-color: #2980b9;
+    width: 100%;
+}
+
